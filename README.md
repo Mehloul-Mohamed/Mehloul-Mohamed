@@ -10,6 +10,6 @@ s   ;   1   e   )   J   )   H   8   *   2   8   9   9   K   B   N   K   i   j   
                 (               m                       I   
 ```
 
-<center><p> Hi, I’m @Mehloul-Mohamed!</p></center>
-<center><p> 💻 I’m a computer science student with a love for technology.</p></center>
-<p>🖊️ I’m currently studying at ESI-SBA in Sidi Bel Abbes in Algeria.</p></center>
+<p align=center> Hi, I’m @Mehloul-Mohamed!</p>
+<p align=center> 💻 I’m a computer science student with a love for technology 💻</p>
+<p align=center> 🖊️ I’m currently studying at ESI-SBA in Sidi Bel Abbes in Algeria 🖊️</p>
